@@ -1,2 +1,2 @@
 # CsRNA
-About transcriptome of tea (*Camellia sinensis*)
+Transcriptome analysis of tea (*Camellia sinensis*)
